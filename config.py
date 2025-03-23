@@ -16,7 +16,7 @@ HELP_MSG = """help msg
 """  # shown only to admins
 
 # Bot token @Botfather
-TG_BOT_TOKEN = ''
+TG_BOT_TOKEN = '7717441829:AAHNhP853L6wFR13-vqG5nlDECq5J1xKl3c'
 # Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", "25262375"))
 
@@ -24,13 +24,13 @@ APP_ID = int(os.environ.get("APP_ID", "25262375"))
 API_HASH = os.environ.get("API_HASH", "6e3140fb33bad778f0ca42e0d36ec13a")
 
 # Your db channel Id
-DB_CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002132261154"))
+DB_CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002432294589"))
 
 # NAME OF OWNER
 OWNER = os.environ.get("OWNER", "NOIR")
 
 # OWNER ID
-OWNER_ID = 6321064549
+OWNER_ID = 5543390445
 
 # SUDO: those who can edit admins in channel
 SUDO = [2093552866]
