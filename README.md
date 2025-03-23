@@ -7,7 +7,7 @@
 </h2>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+AA!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+AARU!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
 </p>
 
 # Features
@@ -69,7 +69,7 @@
 
 # Don't remove this...
 
-</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Yugen Bots](https://t.me/Manga_Campus)</b>
+</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Manga Campus](https://t.me/Manga_Campus)</b>
 
 - Credit <b>[CAMPUS](https://t.me/Manga_Campus)  ›  [Aaru](https://t.me/aaru_2074) </b>
 
