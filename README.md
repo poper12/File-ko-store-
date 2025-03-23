@@ -7,7 +7,7 @@
 </h2>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+AARU!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+AA!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
 </p>
 
 # Features
